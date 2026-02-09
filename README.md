@@ -33,6 +33,7 @@ The calculations focus on **hydrogen-bonding and π–π stacking interactions**
 ---
 
 ### `Nucleobases Pair (Sherrill Database Structures)`
+- Structures labeled 11 or 22 represent nucleobase pairs within the same strand (intrastrand), while 12 or 21 indicate pairs formed between opposite strands (interstrand)
 - Benchmark geometries taken from established **non-covalent interaction databases**
 - Used for **methodological comparison and validation**
 
