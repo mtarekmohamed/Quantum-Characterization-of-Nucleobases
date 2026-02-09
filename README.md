@@ -1,4 +1,4 @@
- gvfcx# Quantum Characterization of Nucleobases
+ # Quantum Characterization of Nucleobases
 
 This repository contains **quantum mechanical benchmark calculations** of non-covalent interactions between nucleobase fragments, supporting the analysis presented in:
 
